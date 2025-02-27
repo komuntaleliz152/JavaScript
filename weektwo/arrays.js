@@ -20,7 +20,7 @@ let suppliers =["John Traders Ltd", "Agrofarm Ltd","Tugume and Son's Ltd"];
     //{ produce: "soybeans", buyer: "Faith", amountPaid:70000, salesAgent: "Marcus", date: "2025-01-7"}
  ]; 
  
-   name,amount due,contact,NIN
+   name,amountDue,contact,NIN
  let trustedBuyers =[
     {name: "Marcus Bruno", NIN: "CM1234567890AB",amountDue }
  ]
