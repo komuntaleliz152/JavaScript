@@ -1,8 +1,8 @@
- //variable
- let myName ="liz"
+variable
+ // let myName ="liz"
 
  //string
- let mystring="Hello, there"
+ let string="Hello, there"
 
  //boolean
  let isFinite= false;

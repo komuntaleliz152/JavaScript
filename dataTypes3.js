@@ -1,7 +1,7 @@
 let age=30;
 let studentName="Desire";
 let shoppingList=["bags", "shoes","dresses"]
-let isWointer=false;
+let isWinter=false;
 
 
 console.log("The dataType of age is:"+ typeof(age))

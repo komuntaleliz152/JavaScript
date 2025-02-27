@@ -13,6 +13,9 @@ let user ={
 
 
 //Array
-let fruits =["mangoes","oranges","apples"]
+//let fruits =["mangoes","oranges","apples"]
+
+//math object
 /*the math object*/
-const PI=Math.round(PI)
+//let root =Math.sqrt(16)
+//console.log(root)
