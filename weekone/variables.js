@@ -1,19 +1,19 @@
-variable
+
  // let myName ="liz"
 
  //string
- let string="Hello, there"
+ //let string="Hello, there"
 
  //boolean
- let isFinite= false;
+ //let isFinite= false;
 
  //undefined
- lastName;
+ //lastName;
 
  //null
- let myNull=null;
+ //let myNull=null;
 
- console.log("myName", "mystring", "isFinite","firstName", "myNull")
+ //console.log("myName", "mystring", "isFinite","firstName", "myNull")
 
  
 let eat;
@@ -36,3 +36,4 @@ console.log("firstName", "lastName", "Age", "maritalStatus", "country")
 
  let myAge=25;
  let yourAge=36;
+console.log("myAge", "yourAge")
