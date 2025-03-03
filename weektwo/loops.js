@@ -16,8 +16,16 @@
  //console.log(`${number}*${number}=s{number*number}`); 
 //}
 
-let numbers=[1, 2, 3, 4, 5];
+/*let numbers=[1, 2, 3, 4, 5];
 let sum=0
 for(let i=0; i<numbers.length;i++){
     sum = sum + numbers[i];
-};
+};*/
+
+//The for---of loop
+//syntax of for---of loops
+
+let colors =["Orange", "Red", "Green"];
+for(let color of colors){
+    console.log(color);
+}  

@@ -1,5 +1,5 @@
 
-let branches =["Matugga Branch", "Maganjo Branch"];
+/*let branches =["Matugga Branch", "Maganjo Branch"];
 let userRoles =["manager", "director", "sales agent"];
 let produceList =["Beans", "MaizeGrain", "CowPeas", "Soybeans","G-nuts"];
 let suppliers =["John Traders Ltd", "Agrofarm Ltd","Tugume and Son's Ltd"];
@@ -23,4 +23,12 @@ let suppliers =["John Traders Ltd", "Agrofarm Ltd","Tugume and Son's Ltd"];
    name,amountDue,contact,NIN
  let trustedBuyers =[
     {name: "Marcus Bruno", NIN: "CM1234567890AB",amountDue }
- ]
+ ]*/
+ let colors = ("Red", "Green", "Blue")
+ console.log(colors)
+ let colorTotal = colors.length
+ console.log(colorTotal)
+
+ let fruits = ("Mangoes", "Apples", "Grapes", "Oranges");
+ console.log(fruits)
+
